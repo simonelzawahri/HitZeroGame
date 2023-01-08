@@ -1,5 +1,4 @@
 # HitZeroGame
 
 
-
-See "COMP352 Assignment2.pdf" for full assignment instructions.
+See "COMP352 Assignment2.pdf" pagee 3 for full assignment instructions.
